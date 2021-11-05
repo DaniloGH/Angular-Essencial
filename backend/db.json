@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": "3.50"
-    },
-    {
       "id": 2,
       "name": "Notebook Mac Pro",
       "price": 12000.89
@@ -16,9 +11,14 @@
       "price": "7520.80"
     },
     {
-      "name": "Lápis Preto Básico",
-      "price": "1.50",
+      "name": "Mouse Logitech M80",
+      "price": "89.90",
       "id": 4
+    },
+    {
+      "name": "Smartwatch Xiaomi Mi Watch Lite - Preto",
+      "price": "305.00",
+      "id": 5
     }
   ]
 }
